@@ -4,7 +4,7 @@ Install::
 
     mkvirtualenv science
     pip install -r requirements.txt
-    python -i orbit.py
     python koch.py
+    python -i orbit.py
 
 ``basic.py`` requires matplotlib, and is different playing I've been doing.
